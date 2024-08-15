@@ -23,7 +23,7 @@ Natural Language Processing is where things get really interesting for me. I’v
 
 - **House Price Prediction**: Engineered a model to predict house prices using Linear and Lasso Regression. Collected data through web scraping and hit an 82% accuracy rate!
 
-## 📚 Things I’m Learnin
+## 📚 Things I’m Learning
 
 - **Languages**: Python, JavaScript, C++, and more.
 - **Libraries/Frameworks**: TensorFlow, Streamlit, ReactJS.
