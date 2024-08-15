@@ -13,7 +13,7 @@ Creating dynamic, user-friendly web applications is a thrill! I’ve built every
 ### **NLP Adventures**
 Natural Language Processing is where things get really interesting for me. I’ve worked on resume ranking systems that sift through job descriptions and CVs to find the perfect match. It’s like giving machines the ability to understand and process human language—super cool, right?
 
-## 🚀 Projects That I’m Proud Of
+## 🚀 My Projects
 
 - **Brain Tumor Detection and Recommendation**: A CNN model trained on thousands of images for faster tumor detection, combined with Streamlit for tailored treatment recommendations.
   
