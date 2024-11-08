@@ -31,4 +31,8 @@ Natural Language Processing is where things get really interesting for me. I’v
 - **Tools**: VS Code, PyCharm, MongoDB.
 ---
 
+## See My Work
+- https://resumerankfree.streamlit.app/
+- https://tumorcheck.streamlit.app/
+
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/tushar-sharma) or shoot me an email at [tush28103@gmail.com](mailto:tush28103@gmail.com). Let’s chat about tech, projects, or just geek out over the latest innovations!
